@@ -11,7 +11,7 @@ I'm a {frontend, sometimes backend} web developer and freelancer.
 - 👨🏼‍🏫 - I have experiencies at technical courses on many technologies, such as HTML5, CSS3, Sass, PHP, Javascript, Jquery, Git and more
 
 ## More Information
-- [Blog](https://baggiosan.tech/blog/) ✍🏼 - I'm write about many things.
+- [Blog](https://baggiosan.tech/blog/) ✍🏼 - I'm write about some things.
 - [Website](https://baggiosan.tech/) 💻 - Working on it.
 
 
