@@ -20,7 +20,6 @@ I'm a {frontend, sometimes backend} web developer and freelancer.
  <img align="center"  alt="Rafael-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  <img align="center" alt="Rafael-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  <img align="center" alt="Rafael-jupyter" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
- <img align="center" alt="Rafael-java" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vue/vue-original.svg">
 </div>
 
 ## More Information
