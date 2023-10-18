@@ -21,6 +21,7 @@ I'm a {frontend, sometimes backend} web developer and freelancer.
  <img align="center" alt="Edilson-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  <img align="center" alt="Edilson-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
  <img align="center"  alt="Edilson-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ <img align="center"  alt="Edilson-Sass" height="50" width="60" src="https://devicons.railway.app/i/sass.svg">
  <img align="center" alt="Edilson-NPM" height="50" width="60" src="https://devicons.railway.app/i/npm.svg">
  <img align="center" alt="Edilson-jupyter" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
