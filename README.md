@@ -28,6 +28,10 @@ I'm a {frontend, sometimes backend} web developer and freelancer.
 - [Blog](https://edilsonsantos.website/) ✍🏼 - I'm write about some things.
 - [Website](https://edilsonsantos.website/) 💻 - Working on it.
 
+<p dir="auto">
+ <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/debora7376/debora7376/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/debora7376/debora7376/output/github-contribution-grid-snake.svg" alt="github contribution grid snake animation" style="max-width: 100%;"></a>
+</p>
 
 <!--
 **EdilsonBaggio/edilsonbaggio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
