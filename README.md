@@ -4,6 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edilsoncicero/)](https://www.linkedin.com/in/edilsoncicero/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edilsonbaggio&show_icons=true&theme=radical&count_private=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=edilsonbaggio&theme=dark)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edilsonbaggio&layout=compact&langs_count=7&theme=dracula&count_private=true)](https://github.com/edilsonbaggio)
 
 ### About me
