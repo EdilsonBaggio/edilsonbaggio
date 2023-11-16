@@ -5,7 +5,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edilsonbaggio&show_icons=true&theme=radical&count_private=true)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=edilsonbaggio&theme=dark)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edilsonbaggio&layout=compact&langs_count=7&theme=dracula&count_private=true)](https://github.com/edilsonbaggio)
 
 ### About me
 I'm a {frontend, sometimes backend} web developer and freelancer.
@@ -33,6 +32,8 @@ I'm a {frontend, sometimes backend} web developer and freelancer.
  <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/debora7376/debora7376/output/github-contribution-grid-snake.svg">
   <img src="https://raw.githubusercontent.com/debora7376/debora7376/output/github-contribution-grid-snake.svg" alt="github contribution grid snake animation" style="max-width: 100%;"></a>
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edilsonbaggio&layout=compact&langs_count=7&theme=dracula&count_private=true)](https://github.com/edilsonbaggio)
 
 <!--
 **EdilsonBaggio/edilsonbaggio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
