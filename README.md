@@ -3,19 +3,22 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/edilsonbaggio)](https://github.com/edilsonbaggio)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edilsoncicero/)](https://www.linkedin.com/in/edilsoncicero/)
 
-<div style="display: flex;">
+<div style="display: flex">
+   <img src="https://github-readme-stats.vercel.app/api?username=edilsonbaggio&show_icons=true&theme=radical&count_private=true" alt="Anurag's GitHub stats">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edilsonbaggio&show_icons=true&theme=radical&count_private=true)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=edilsonbaggio&theme=dark)](https://git.io/streak-stats)
-
+   <a href="https://git.io/streak-stats">
+     <img src="https://github-readme-streak-stats.herokuapp.com?user=edilsonbaggio&theme=dark" alt="GitHub Streak">
+   </a>
 </div>
 
-<div style="display: flex;">
- 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edilsonbaggio&layout=compact&langs_count=7&theme=dracula&count_private=true)](https://github.com/edilsonbaggio)
- 
-  <img src="https://raw.githubusercontent.com/debora7376/debora7376/output/github-contribution-grid-snake.svg" alt="github contribution grid snake animation" style="width: 100%;">
- 
+<div style="display: flex">
+  <a href="https://github.com/edilsonbaggio">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edilsonbaggio&layout=compact&langs_count=7&theme=dracula&count_private=true" alt="Top Langs">
+  </a>
+  
+  <a href="https://github.com/edilsonbaggio">
+    <img src="https://raw.githubusercontent.com/debora7376/debora7376/output/github-contribution-grid-snake.svg" alt="github contribution grid snake animation" style="width: 100%;">
+  </a>
 </div>
 
 ### About me
