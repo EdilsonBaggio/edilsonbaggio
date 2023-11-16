@@ -4,12 +4,18 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edilsoncicero/)](https://www.linkedin.com/in/edilsoncicero/)
 
 <div style="display: flex;">
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edilsonbaggio&show_icons=true&theme=radical&count_private=true)
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=edilsonbaggio&theme=dark)](https://git.io/streak-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edilsonbaggio&show_icons=true&theme=radical&count_private=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=edilsonbaggio&theme=dark)](https://git.io/streak-stats)
+
 </div>
 
-<div style="display: flex; justify-content: center;">
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edilsonbaggio&layout=compact&langs_count=7&theme=dracula&count_private=true)](https://github.com/edilsonbaggio)
+<div style="display: flex;">
+ 
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edilsonbaggio&layout=compact&langs_count=7&theme=dracula&count_private=true)](https://github.com/edilsonbaggio)
+ 
+  <img src="https://raw.githubusercontent.com/debora7376/debora7376/output/github-contribution-grid-snake.svg" alt="github contribution grid snake animation" style="width: 100%;">
+ 
 </div>
 
 ### About me
@@ -32,11 +38,6 @@ I'm a {frontend, sometimes backend} web developer and freelancer.
 ## More Information
 - [Blog](https://edilsonsantos.website/) ✍🏼 - I'm write about some things.
 - [Website](https://edilsonsantos.website/) 💻 - Working on it.
-
-<p dir="auto">
- <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/debora7376/debora7376/output/github-contribution-grid-snake.svg">
-  <img src="https://raw.githubusercontent.com/debora7376/debora7376/output/github-contribution-grid-snake.svg" alt="github contribution grid snake animation" style="width: 100%;"></a>
-</p>
 
 <!--
 **EdilsonBaggio/edilsonbaggio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
