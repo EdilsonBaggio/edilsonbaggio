@@ -5,16 +5,15 @@
 
 <div style="display: flex">
    <img src="https://github-readme-stats.vercel.app/api?username=edilsonbaggio&show_icons=true&theme=radical&count_private=true" alt="Anurag's GitHub stats">
-
-   <a href="https://git.io/streak-stats">
-     <img src="https://github-readme-streak-stats.herokuapp.com?user=edilsonbaggio&theme=dark" alt="GitHub Streak">
-   </a>
+    <a href="https://github.com/edilsonbaggio">
+       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edilsonbaggio&layout=compact&langs_count=7&theme=dracula&count_private=true" alt="Top Langs">
+     </a>
 </div>
 
 <div style="display: flex">
-  <a href="https://github.com/edilsonbaggio">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edilsonbaggio&layout=compact&langs_count=7&theme=dracula&count_private=true" alt="Top Langs">
-  </a>
+   <a href="https://git.io/streak-stats">
+     <img src="https://github-readme-streak-stats.herokuapp.com?user=edilsonbaggio&theme=dark" alt="GitHub Streak">
+   </a>
   
   <a href="https://github.com/edilsonbaggio">
     <img src="https://raw.githubusercontent.com/debora7376/debora7376/output/github-contribution-grid-snake.svg" alt="github contribution grid snake animation" style="width: 100%;">
