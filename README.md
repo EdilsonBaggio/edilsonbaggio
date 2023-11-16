@@ -3,8 +3,14 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/edilsonbaggio)](https://github.com/edilsonbaggio)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edilsoncicero/)](https://www.linkedin.com/in/edilsoncicero/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edilsonbaggio&show_icons=true&theme=radical&count_private=true)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=edilsonbaggio&theme=dark)](https://git.io/streak-stats)
+<div style="display: flex;">
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edilsonbaggio&show_icons=true&theme=radical&count_private=true)
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=edilsonbaggio&theme=dark)](https://git.io/streak-stats)
+</div>
+
+<div style="display: flex; justify-content: center;">
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edilsonbaggio&layout=compact&langs_count=7&theme=dracula&count_private=true)](https://github.com/edilsonbaggio)
+</div>
 
 ### About me
 I'm a {frontend, sometimes backend} web developer and freelancer.
@@ -21,7 +27,6 @@ I'm a {frontend, sometimes backend} web developer and freelancer.
  <img align="center" alt="Edilson-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
  <img align="center"  alt="Edilson-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  <img align="center"  alt="Edilson-Sass" height="50" width="60" src="https://devicons.railway.app/i/sass.svg">
- <img align="center" alt="Edilson-NPM" height="50" width="60" src="https://devicons.railway.app/i/npm.svg">
 </div>
 
 ## More Information
@@ -30,10 +35,8 @@ I'm a {frontend, sometimes backend} web developer and freelancer.
 
 <p dir="auto">
  <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/debora7376/debora7376/output/github-contribution-grid-snake.svg">
-  <img src="https://raw.githubusercontent.com/debora7376/debora7376/output/github-contribution-grid-snake.svg" alt="github contribution grid snake animation" style="max-width: 100%;"></a>
+  <img src="https://raw.githubusercontent.com/debora7376/debora7376/output/github-contribution-grid-snake.svg" alt="github contribution grid snake animation" style="width: 100%;"></a>
 </p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edilsonbaggio&layout=compact&langs_count=7&theme=dracula&count_private=true)](https://github.com/edilsonbaggio)
 
 <!--
 **EdilsonBaggio/edilsonbaggio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
