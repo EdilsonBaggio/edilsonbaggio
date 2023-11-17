@@ -6,7 +6,7 @@
 <div style="display: flex">
    <img src="https://github-readme-stats.vercel.app/api?username=edilsonbaggio&show_icons=true&theme=radical&count_private=true" alt="Anurag's GitHub stats" style="width: 50%;">
     <a href="https://github.com/edilsonbaggio">
-       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edilsonbaggio&layout=compact&langs_count=7&theme=dracula&count_private=true" alt="Top Langs" style="width: 35%;">
+       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edilsonbaggio&layout=compact&langs_count=7&theme=dracula&count_private=true" alt="Top Langs" style="width: 48%; margin-left:30px;">
      </a>
 </div>
 
