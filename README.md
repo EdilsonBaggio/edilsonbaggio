@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Edilson Baggio ⚡
+# 👋 Hi, I'm Edilson Santos ⚡
 
 ## 🚀 About Me
 
@@ -10,18 +10,6 @@ FullStack & DevOps Developer with over 10 years of experience building systems, 
 - 🤖 AI Integrations
 - 💳 Payment Gateway Integrations
 - 🚀 Performance & Automation
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=edilsonbaggio&show_icons=true&theme=radical&count_private=true" />
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edilsonbaggio&layout=compact&langs_count=8&theme=radical" />
-
-</div>
 
 ---
 
